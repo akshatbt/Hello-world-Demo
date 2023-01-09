@@ -13,5 +13,6 @@ int main(){
     cin >> a;
     cin >> b;
     int x = add(a,b);
+    cout<<x;
     return 0;
 }
