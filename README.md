@@ -8,3 +8,5 @@ edit - commands like push, pull, clone etc.
 
 3rd edit - vs code authorised
 asd
+/n
+"this is a new commit"
