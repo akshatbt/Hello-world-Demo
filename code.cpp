@@ -10,8 +10,8 @@ int add(int a, int b)
 int main(){
 
     int a,b;
-    cin>>a>>endl;
-    cin>>b>>endl;
+    cin >> a;
+    cin >> b;
     int x = add(a,b);
     return 0;
 }
